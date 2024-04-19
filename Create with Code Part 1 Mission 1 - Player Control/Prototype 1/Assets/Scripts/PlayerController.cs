@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private float speed = 20.0f;
+    private float speed = 40.0f;
     private float turnSpeed = 80.0f;
     
     private float horizontalInput;
